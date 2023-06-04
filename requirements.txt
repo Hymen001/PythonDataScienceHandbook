@@ -13,3 +13,6 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+
+
+lines 001 06 python3 /home/
